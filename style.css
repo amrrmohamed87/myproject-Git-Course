@@ -1,7 +1,10 @@
+body {
+  background-color: black;
+}
 h1 {
-  color: #00657e;
+  color: #fff;
 }
 span {
-  color: black;
+  color: #00657e;
   font-weigth: bold;
 }
